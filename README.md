@@ -52,3 +52,6 @@ Fitur Utama:
 5. Jalankan Server
    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
+**Link Gdrive**
+https://drive.google.com/file/d/1Ugv00djvjWTfK6IYCwgBSAv8z2xZ73rw/view?usp=drive_link
+
